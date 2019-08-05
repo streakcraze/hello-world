@@ -1,2 +1,5 @@
 # hello-world
-my first github repository
+
+Genesis,
+
+Passionate about javascript and applications.
